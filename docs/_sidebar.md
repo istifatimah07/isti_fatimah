@@ -9,7 +9,7 @@
 - Tutorials
 
   - Flutter
-    - [Counter](fluttercountertutorial.md)
+    - [Testing Side Bar](testingSidebar.md)
     - [Infinite List](flutterinfinitelisttutorial.md)
     - [Login](flutterlogintutorial.md)
     - [Weather](flutterweathertutorial.md)
